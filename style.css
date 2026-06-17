@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.btn {
+    padding: 4px 8px;
+    border-radius: 10%;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: rgb(154, 169, 154);
+}
+
+.text-input {
+    padding: 4px 8px;
+}
+
+.flex-box {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* optional spacing */
+}
+
+.log-box {
+    padding: 10px;
+    background-color: rgb(206, 205, 205);
+    color: black;
+    height: 300px;
+    width: 200px;
+}
