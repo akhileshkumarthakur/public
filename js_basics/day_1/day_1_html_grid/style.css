@@ -1,0 +1,35 @@
+.parent-div {
+    
+
+}
+
+
+
+.main-div {
+    background-color: rgb(187, 204, 204);
+    border: 3px solid green;
+    width: 800px;
+    height: 500px;
+    border-radius: 8px;
+
+    display: flex;
+}
+
+
+.main-div div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(112, 112, 112);
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 90px;
+}
+
+
+p {
+    font-family: Roboto, Arial;
+    font: bold;
+    ;
+}
