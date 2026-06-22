@@ -1,0 +1,20 @@
+:root {
+    background-color: rgb(21, 38, 93);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.testing-box {
+    width: 500px;
+    background-color: rgb(237, 237, 237);
+    padding: 20px 80px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+
+.para-prob-2 {
+    border-radius: 6px;
+    padding: 5px 8px;
+}
