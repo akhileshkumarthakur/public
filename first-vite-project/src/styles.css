@@ -1,8 +1,10 @@
+body {
+    margin: 0%
+}
+
+
 :root {
     background-color: rgb(21, 38, 93);
-    display: flex;
-    justify-content: center;
-    align-items: center;
     height: 2000px;
 }
 

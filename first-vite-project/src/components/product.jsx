@@ -1,7 +1,9 @@
 import React from "react";
-import "./product.css";
-import cloudImage from "./cloud-image.webp";
-import data from "./products-data.js";
+import "../css/product.css";
+import cloudImage from "../assets/cloud-image.webp";
+import data from "./products-data"
+
+
 
 function Product() {
   return (
